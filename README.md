@@ -1,4 +1,4 @@
-.# YFinance-API
+YFinance-API
 Download Market Data from Yahoo! Finance's API and analyzing using yfinance and pandas
 Reading different Python Tickers  from yahoo market 
 
